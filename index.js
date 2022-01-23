@@ -1,0 +1,5 @@
+function doStuff() {
+  // TODO
+}
+
+doStuff();
